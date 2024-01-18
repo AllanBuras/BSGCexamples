@@ -2,6 +2,8 @@
 
 ###load dendRolAB
 
+###devtools::install_github("AllanBuras/dendRolAB")  ###only run if dendRolAB is not yet installed
+
 library(dendRolAB)
 
 ###prepare Fig. 1:
